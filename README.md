@@ -19,4 +19,11 @@ $ npm run start
 $ npm run generate
 ```
 
+## Lint
+
+``` bash
+# fix lint errors automatically
+$ npm run lint-fix
+```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
